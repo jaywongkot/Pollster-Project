@@ -14,7 +14,7 @@ cd pollster
 python manage.py runserver
 ```
 
-### Commands Gist
+### Git commands
 You can find all of the commands from the project here:
 https://gist.github.com/bradtraversy/06538da5924882b2cf30fa6310d505b1
 
